@@ -17,7 +17,7 @@ What we need is a solution that can guide programmers of any skill level from th
 
 ## About the Courses
 
-"Learn JavaScript with Eric Elliott" engages students on many levels:
+["Learn JavaScript with Eric Elliott"](http://learn-javascript.ericelliott.me/programming-javascript-applications/) engages students on many levels:
 
 * **Audio / video:** 7-10 minute video instruction
 * **Hands-on practice:** Online Workbook text to introduce concepts and interactive, self-grading exercises
