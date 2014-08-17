@@ -15,6 +15,7 @@ These courses would not exist without the support of the following backers:
 ## Adventure Game Backers
 
 * Erik Erwitt
+* Rudy Jahchan
 
 
 ## Additional Backers
