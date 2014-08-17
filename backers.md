@@ -3,6 +3,7 @@ Meet the Backers
 
 This project was [funded on Kickstarter](https://www.kickstarter.com/projects/ericelliott/learn-javascript). We raised 250% of our goal. These courses would not exist without the support of the following backers:
 
+
 ## 3-Course Backers
 * workFunc
 * William Griffiths
@@ -15,6 +16,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 
 ## 1-Course Bundle Backers
 * Christopher Walker
+* His Majesty King Andrew Foster
 
 
 ## Primer Course Video Backers
