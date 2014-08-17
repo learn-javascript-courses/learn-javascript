@@ -8,6 +8,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * William Griffiths
 * Bob Milani
 * manoj
+* Aviv Avital
 
 
 ## 1-Course Bundle Backers
