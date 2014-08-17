@@ -10,6 +10,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * manoj
 * Aviv Avital
 * Matthew Riley
+* jeremiahkonrad
 
 
 ## 1-Course Bundle Backers
