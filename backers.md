@@ -5,6 +5,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 
 
 ## 3-Course Backers
+
 * workFunc
 * William Griffiths
 * Bob Milani
@@ -15,8 +16,10 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 
 
 ## 1-Course Bundle Backers
+
 * Christopher Walker
 * His Majesty King Andrew Foster
+* James Meehan
 
 
 ## Primer Course Video Backers
