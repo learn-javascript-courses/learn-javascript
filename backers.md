@@ -1,7 +1,7 @@
 Meet the Backers
 ================
 
-These courses would not exist without the support of the following backers:
+This project was [funded on Kickstarter](https://www.kickstarter.com/projects/ericelliott/learn-javascript). We raised 250% of our goal. These courses would not exist without the support of the following backers:
 
 ## 3-Course Backers
 * workFunc
