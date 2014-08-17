@@ -7,6 +7,7 @@ These courses would not exist without the support of the following backers:
 * workFunc
 * William Griffiths
 * Bob Milani
+* manoj
 
 
 ## 1-Course Bundle Backers
