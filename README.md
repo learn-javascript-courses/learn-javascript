@@ -35,4 +35,4 @@ If you'd like to do even more, you can [follow @TheBackerArmy on twitter](https:
 
 *Together we can change the world.*
 
-*~ [Eric Elliott](twitter.com/_ericelliott)*
+*[~ee](twitter.com/_ericelliott)*
