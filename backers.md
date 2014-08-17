@@ -9,6 +9,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * Bob Milani
 * manoj
 * Aviv Avital
+* Matthew Riley
 
 
 ## 1-Course Bundle Backers
