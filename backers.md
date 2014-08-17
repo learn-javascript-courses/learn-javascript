@@ -5,6 +5,7 @@ These courses would not exist without the support of the following backers:
 
 ## 3-Course Backers
 * workFunc
+* William Griffiths
 
 
 ## 1-Course Bundle Backers
