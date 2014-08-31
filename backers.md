@@ -14,6 +14,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * Matthew Riley
 * jeremiahkonrad
 * Dave Hylands
+* Wayne Brissette
 
 
 ## 1-Course Bundle Backers
