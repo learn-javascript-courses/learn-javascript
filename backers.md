@@ -33,6 +33,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * Price Murry
 * Alan Musselman
 * Matt Lindsey
+* GumGumKing
 
 
 ## Primer Course Video Backers
