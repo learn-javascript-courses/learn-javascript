@@ -30,6 +30,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * Christopher Walker
 * His Majesty King Andrew Foster
 * James Meehan
+* Price Murry
 
 
 ## Primer Course Video Backers
