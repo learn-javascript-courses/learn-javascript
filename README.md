@@ -9,9 +9,11 @@ An online course series for future application builders. Ready to jump in? Shop 
 I'm a veteran of JavaScript application development. I've worked with major brands you've heard of such as Adobe (Computer Scientist, Creative Cloud team) and Zumba Fitness (head of client-side architecture). Elsewhere, I helped build software used by many other brands you've heard of, including The Wall Street Journal, BBC, People Magazine, ESPN, The New York Post, and many more. I've also helped build software used by many bands you've heard of, such as Usher, Common, Bruce Springsteen, Frank Ocean, Metallica, Snoop Dogg, and about half a million other bands. I have also contributed to many open source projects used by thousands of websites and applications.
 
 
-## Don't learn JavaScript - Learn how to change the world with it
+## Don't Learn JavaScript - Learn How to Build Amazing Things
 
-*99 out of 100 candidates I've interviewed don't have the qualifications to hit the ground running.*
+I can tell you from experience, it's easy to find people with JavaScript experience. It's extremely hard to find JavaScript developers who really understand the craft of application building.
+
+*99 out of 100 candidates I've interviewed lack the qualifications to hit the ground running.*
 
 To fix that, I wrote a book called ["Programming JavaScript Applications" (O'Reilly)](http://learn-javascript.ericelliott.me/programming-javascript-applications/). It's finished and shipping, and it's already helping a great deal... but it's not approachable for novice JavaScript developers-in-training.
 
