@@ -22,6 +22,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * Wayne Brissette
 * Roger Perrett
 * David McLaughlin
+* ebsoft
 
 
 ## 1-Course Bundle Backers
