@@ -31,6 +31,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * His Majesty King Andrew Foster
 * James Meehan
 * Price Murry
+* Alan Musselman
 
 
 ## Primer Course Video Backers
