@@ -11,7 +11,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 
 ## 3-Course Bundle + Character in a text adventure game
 
-*Ides
+* Ides
 
 
 ## 3-Course Bundle
