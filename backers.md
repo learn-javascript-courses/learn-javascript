@@ -9,7 +9,12 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 * dantavious
 
 
-## 3-Course Backers
+## 3-Course Bundle + Character in a text adventure game
+
+*Ides
+
+
+## 3-Course Bundle
 
 * workFunc
 * William Griffiths
