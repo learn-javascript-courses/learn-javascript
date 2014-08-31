@@ -44,6 +44,7 @@ This project was [funded on Kickstarter](https://www.kickstarter.com/projects/er
 ## Primer Course Video Backers
 
 * Rafał Pocztarski
+* Dave Nugent
 
 
 ## Adventure Game Backers
