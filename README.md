@@ -6,7 +6,10 @@ An online course series for future application builders. Ready to jump in? Shop 
 
 ## About Me
 
-I'm a veteran of JavaScript application development. I've worked with major brands you've heard of such as Adobe (Computer Scientist, Creative Cloud team) and Zumba Fitness (head of client-side architecture). At various times, I've been tasked with hiring and interviewing JavaScript developers to build applications with millions of users. That is harder than it sounds.
+I'm a veteran of JavaScript application development. I've worked with major brands you've heard of such as Adobe (Computer Scientist, Creative Cloud team) and Zumba Fitness (head of client-side architecture). Elsewhere, I helped build software used by many other brands you've heard of, including The Wall Street Journal, BBC, People Magazine, ESPN, The New York Post, and many more. I've also helped build software used by many bands you've heard of, such as Usher, Common, Bruce Springsteen, Frank Ocean, Metallica, Snoop Dogg, and about half a million other bands. I have also contributed to many open source projects used by thousands of websites and applications.
+
+
+## Don't learn JavaScript - Learn how to change the world with it
 
 *99 out of 100 candidates I've interviewed don't have the qualifications to hit the ground running.*
 
