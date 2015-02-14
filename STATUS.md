@@ -7,7 +7,9 @@ All courses are currently in preorder. To thank you for your early support and p
 
 These are the courses I wish I had when I was starting my career. You can trust us when we say it's worth the wait.
 
-Ready to jump in? [Learn more](https://ericelliottjs.com/).
+**Ready to jump in?** [Learn more](https://ericelliottjs.com/).
+
+**Questions?** [Submit a support request](https://paralleldrive.zendesk.com/hc/en-us/requests/new).
 
 ## Latest Milestones
 
@@ -15,7 +17,15 @@ Ready to jump in? [Learn more](https://ericelliottjs.com/).
 * [x] **Books are shipping:** We're caught up with backorders. New orders usually ship within 24 hours. (If you still don't have yours, please [submit a support request](https://paralleldrive.zendesk.com/hc/en-us/requests/new) and we'll fix it.
 * [ ] **First course:** On track to launch before the end of February.
 
-The Game Plan
+
+## Things to do while you wait
+
+* [ ] Complete preliminary items on the [Learn JavaScript Essentials list](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2).
+* [ ] Browse the [Essential JavaScript Links collection](https://gist.github.com/ericelliott/d576f72441fc1b27dace).
+* [ ] Get some fresh air. Enjoy nature. Catch a movie. Enjoy your free time. The wait will be over before you know it.
+
+
+## The Game Plan
 
 1. **July 2014:** Plan course outlines and raise $7.5k to pay for the course production costs. This covers the costs of course materials, video recording, editing, and graphic design. Thanks to your help, we raised $25,000 and expanded our goal to create two additional courses.
 2. **Early 2015:** Launch the first course, and begin JSHomes.org website and raise awareness. This is where we are today. Our first course is nearing completion and we’re gearing up to launch it. In the meantime, we’re raising funds to help with the JSHomes outreach effort, and to create an online platform that works better for our course materials than currently available e-learning platforms.
