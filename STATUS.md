@@ -18,7 +18,7 @@ These are the courses I wish I had when I was starting my career. You can trust 
 * [ ] **First course:** On track to launch before the end of February.
 
 
-## Things to do while you wait
+## Things to do before the courses launch...
 
 * [ ] Complete preliminary items on the [Learn JavaScript Essentials list](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2).
 * [ ] Browse the [Essential JavaScript Links collection](https://gist.github.com/ericelliott/d576f72441fc1b27dace).
