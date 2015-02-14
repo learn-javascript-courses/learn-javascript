@@ -9,7 +9,7 @@ These are the courses I wish I had when I was starting my career. You can trust 
 
 Ready to jump in? [Learn more](https://ericelliottjs.com/).
 
-## Status
+## Latest Milestones
 
 * [x] **Initial crowdfunding:** Exceeded goal by 250%. A bonus course was added to the planned production.
 * [x] **Books are shipping:** We're caught up with backorders. New orders usually ship within 24 hours. (If you still don't have yours, please [submit a support request](https://paralleldrive.zendesk.com/hc/en-us/requests/new) and we'll fix it.
