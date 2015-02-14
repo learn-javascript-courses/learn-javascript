@@ -22,7 +22,7 @@ These are the courses I wish I had when I was starting my career. You can trust 
 
 * [ ] Complete preliminary items on the [Learn JavaScript Essentials list](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2).
 * [ ] Browse the [Essential JavaScript Links collection](https://gist.github.com/ericelliott/d576f72441fc1b27dace).
-* [ ] Form a study group.
+* [ ] Form a study group. Students learn better when they can get answers from tutors and tutor others.
 * [ ] Get some fresh air. Enjoy nature. Catch a movie. Enjoy your free time. The wait will be over before you know it.
 
 
