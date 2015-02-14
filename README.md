@@ -5,7 +5,7 @@ An online course series for future application builders. Ready to jump in? [Lear
 
 ## Status
 
-All courses are currently in preorder, which means we're running special deals that are only available in preorder.
+All courses are currently in preorder, which means we're running special half price deals that are **only available in preorder**.
 
 
 ## About Me
