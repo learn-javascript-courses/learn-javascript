@@ -1,5 +1,5 @@
-Learn JavaScript with Eric Elliott Course Status
-================================================
+Status: Learn JavaScript with Eric Elliott 
+==========================================
 
 An online course series for future application builders. Ready to jump in? [Learn more](https://ericelliottjs.com/).
 
