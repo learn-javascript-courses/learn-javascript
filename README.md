@@ -6,12 +6,14 @@ An online course series for future application builders. Ready to jump in? Shop 
 
 ## About Me
 
-I'm a veteran of JavaScript application development. I've worked with major brands you've heard of such as Adobe (Computer Scientist, Creative Cloud team) and Zumba Fitness (head of client-side architecture). Elsewhere, I helped build software used by many other brands you've heard of, including The Wall Street Journal, BBC, People Magazine, ESPN, The New York Post, and many more. I've also helped build software used by many bands you've heard of, such as Usher, Common, Bruce Springsteen, Frank Ocean, Metallica, Snoop Dogg, and about half a million other bands. I have also contributed to many open source projects used by thousands of websites and applications.
+I’m **Eric Elliott**, author of [“Programming JavaScript Applications”](http://pjabook.com) (O’Reilly), and host of the feature-length documentary film-in-production, [“Programming Literacy”](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91).
+
+I have contributed to software experiences for **Adobe Systems**, **Zumba Fitness**, **The Wall Street Journal**, **ESPN**, **BBC**, and top recording artists including **Usher**, **Frank Ocean**, **Metallica**, and many more.
 
 
 ## Don't Learn JavaScript - Learn How to Build Amazing Things
 
-I can tell you from experience, it's easy to find people with JavaScript experience. It's extremely hard to find JavaScript developers who really understand the craft of application building.
+It's easy to find people with JavaScript experience. It's extremely hard to find JavaScript developers who really understand the craft of building great applications.
 
 *99 out of 100 candidates I've interviewed lack the qualifications to hit the ground running.*
 
@@ -22,7 +24,7 @@ What we need is a solution that can guide programmers of any skill level from th
 
 ## About the Courses
 
-["Learn JavaScript with Eric Elliott"](http://learn-javascript.ericelliott.me/programming-javascript-applications/) engages students on many levels:
+["Learn JavaScript with Eric Elliott"](https://ericelliottjs.com) engages students on many levels:
 
 * **Audio / video:** 7-10 minute video instruction
 * **Hands-on practice:** Online Workbook text to introduce concepts and interactive, self-grading exercises
@@ -32,11 +34,9 @@ What we need is a solution that can guide programmers of any skill level from th
 
 ## Supporting a Good Cause
 
-We launched ["Learn JavaScript with Eric Elliott" on Kickstarter](https://www.kickstarter.com/projects/ericelliott/learn-javascript) and raised 250% of our goal. The campaign went viral after I posted a story on medium: ["Fighting Poverty with Code"](https://medium.com/the-backer-army/fighting-poverty-with-code-d1ed3ebd982d). We're on a mission to end homelessness. There is a global movement to end homelessness by providing the homeless with free housing. Intake tracking studies show that housing the homeless is less expensive than letting them live on the street. Once they're in a stable home environment, they are much more likely to escape the grip of poverty and become productive, self-reliant citizens. That's where you come in: Your support allows us to help housing-first programs implement effective job-training programs for the homeless. We're teaching the homeless how to code, and helping them into rewarding careers.
+We launched ["Learn JavaScript with Eric Elliott" on Kickstarter](https://www.kickstarter.com/projects/ericelliott/learn-javascript) and raised 250% of our goal. The campaign went viral after I posted a story on medium: ["Fighting Poverty with Code"](https://medium.com/the-backer-army/fighting-poverty-with-code-d1ed3ebd982d).
 
-If you'd like to do even more, you can [follow @TheBackerArmy on twitter](https://twitter.com/thebackerarmy) and help spread the word. We are building a network of volunteers that spans coast-to-coast in the United States, and includes several other countries around the globe.
-
-
+We're on a mission to end homelessness. There is a global movement to end homelessness by providing the homeless with free housing. Intake tracking studies show that housing the homeless is less expensive than letting them live on the street. Once they're in a stable home environment, they are much more likely to escape the grip of poverty and become productive, self-reliant citizens. That's where you come in: Your support allows us to help housing-first programs implement effective job-training programs for the homeless. We're teaching the homeless how to code, and helping them into rewarding careers.
 
 *Together we can change the world.*
 
