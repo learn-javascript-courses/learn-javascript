@@ -32,7 +32,9 @@ What we need is a solution that can guide programmers of any skill level from th
 * **Collaboration** Create an agile study group to share encouragement and tutoring as you progress.
 
 
-### JavaScript Software Testing with Sauce Labs *(est launch: before the end of February, 2015)*
+### JavaScript Software Testing with Sauce Labs
+
+*(est launch: before the end of February, 2015)*
 
 ***The only thing that matters in development is that users love the product.***
 
