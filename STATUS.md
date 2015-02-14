@@ -44,4 +44,4 @@ I have contributed to software experiences for **Adobe Systems**, **Zumba Fitnes
 
 * **Ready to jump in?** [Learn more at EricElliottJS.com](https://ericelliottjs.com/).
 
-**~ee**
+*~ee*
