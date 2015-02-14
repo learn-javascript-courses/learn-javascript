@@ -1,7 +1,7 @@
 Learn JavaScript with Eric Elliott
 ==================================
 
-An online course series for future application builders. Ready to jump in? Shop the [Course catalog](http://learn-javascript.ericelliott.me/programming-javascript-applications/).
+An online course series for future application builders. Ready to jump in? [Learn more](https://ericelliottjs.com/).
 
 
 ## About Me
