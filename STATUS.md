@@ -39,3 +39,9 @@ These are the courses I wish I had when I was starting my career. You can trust 
 I’m **Eric Elliott**, author of [“Programming JavaScript Applications”](http://pjabook.com) (O’Reilly), and host of the feature-length documentary film-in-production, [“Programming Literacy”](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91).
 
 I have contributed to software experiences for **Adobe Systems**, **Zumba Fitness**, **The Wall Street Journal**, **ESPN**, **BBC**, and top recording artists including **Usher**, **Frank Ocean**, **Metallica**, and many more.
+
+## How to sign up...
+
+* **Ready to jump in?** [Learn more at EricElliottJS.com](https://ericelliottjs.com/).
+
+**~ee**
