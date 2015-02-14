@@ -17,7 +17,7 @@ It's easy to find people with JavaScript experience. It's extremely hard to find
 
 *99 out of 100 candidates I've interviewed lack the qualifications to hit the ground running.*
 
-To fix that, I wrote a book called ["Programming JavaScript Applications" (O'Reilly)](http://learn-javascript.ericelliott.me/programming-javascript-applications/). It's finished and shipping, and it's already helping a great deal... but it's not approachable for novice JavaScript developers-in-training.
+To fix that, I wrote a book called [“Programming JavaScript Applications”](http://pjabook.com) (O’Reilly). It's finished and shipping, and it's already helping a great deal... but it's not approachable for novice JavaScript developers-in-training.
 
 What we need is a solution that can guide programmers of any skill level from the first steps to completion of a world-class JavaScript application, front-to-back. That's where these courses come in.
 
