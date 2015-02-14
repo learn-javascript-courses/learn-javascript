@@ -1,0 +1,42 @@
+{
+  "name": "learn-javascript",
+  "version": "1.0.0",
+  "description": "Learn JavaScript with Eric Elliott - Course Examples",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "lint": "jshint .",
+    "test": "tape test/index.js | tap-bail | tap-difflet",
+    "c1:section-0:example-1": "tape examples/software-testing/section-0/example-1.js | tap-bail | tap-difflet",
+    "c1:section-5:example-1": "tape examples/software-testing/section-5/example-1.js | tap-bail | tap-difflet",
+    "c1:section-5:example-2": "tape examples/software-testing/section-5/example-1.js | tap-bail | tap-difflet",
+    "c1:section-5:example-3": "tape examples/software-testing/section-5/example-1.js | tap-bail | tap-difflet",
+    "dev": "watch --wait=5 'npm run lint && npm run test' ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learn-javascript-courses/learn-javascript.git"
+  },
+  "keywords": [
+    "Learn",
+    "JavaScript",
+    "Courses",
+    "Education",
+    "Educational"
+  ],
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-javascript-courses/learn-javascript/issues"
+  },
+  "homepage": "https://github.com/learn-javascript-courses/learn-javascript",
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "tap-bail": "0.0.0",
+    "tap-difflet": "^0.3.0",
+    "tape": "^3.5.0",
+    "watch": "^0.13.0"
+  }
+}
