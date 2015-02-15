@@ -19,7 +19,7 @@ I have contributed to software experiences for **Adobe Systems**, **Zumba Fitnes
 
 ## About @JS_Cheerleader *(Producer/Director)*
 
-@JS_Cheerleader has interviewed the brightest stars at Sundance, worked on national television shows & film, and recently won the hearts of tech scene insiders as a JavaScript evangelist, connector, and opportunity creator. Yay!
+[@JS_Cheerleader](https://twitter.com/js_cheerleader) has interviewed the brightest stars at Sundance, worked on national television shows & film, and recently won the hearts of tech scene insiders as a JavaScript evangelist, connector, and opportunity creator. Yay!
 
 
 ## Don't Learn JavaScript - Learn How to Build Amazing Things
