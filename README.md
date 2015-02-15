@@ -5,7 +5,7 @@ An online course series for future application builders. Ready to jump in? [Lear
 
 ## Status
 
-All courses are currently in preorder. To thank you for your early support and patience, we're running special **half price deals** that are **only available in preorder**. We're building an experience that is unlike any other, packed with knowledge and wisdom you won't find in any other course.
+All courses are currently in preorder. You can [view status details here](STATUS.md). To thank you for your early support and patience, we're running special **half price deals** that are **only available in preorder**. We're building an experience that is unlike any other, packed with knowledge and wisdom you won't find in any other course.
 
 These are the courses I wish I had when I was starting my career. You can trust us when we say it's worth the wait.
 
