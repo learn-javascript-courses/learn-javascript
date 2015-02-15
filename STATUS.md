@@ -24,6 +24,7 @@ These are the courses I wish I had when I was starting my career. You can trust 
 * [ ] Browse the [Essential JavaScript Links collection](https://gist.github.com/ericelliott/d576f72441fc1b27dace).
 * [ ] Form a study group. Students learn better when they can get answers from tutors and tutor others.
 * [ ] Get some fresh air. Enjoy nature. Catch a movie. Enjoy your free time. The wait will be over before you know it.
+* [ ] **Become a tech celebrity.** As an extra special thank you we have an exclusive offer for lifetime members only. Win an appearance in a course video Q&A. A great way to document your JavaScript education in eternity! This is for anyone who purchases the lifetime access pass before Midnight Friday, February 20, US Pacific Time.
 
 
 ## The Game Plan
