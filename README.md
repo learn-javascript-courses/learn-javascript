@@ -10,11 +10,16 @@ All courses are currently in preorder. You can [view status details here](STATUS
 These are the courses I wish I had when I was starting my career. You can trust us when we say it's worth the wait.
 
 
-## About Me
+## About Eric Elliott
 
 I’m **Eric Elliott**, author of [“Programming JavaScript Applications”](http://pjabook.com) (O’Reilly), and host of the feature-length documentary film-in-production, [“Programming Literacy”](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91).
 
 I have contributed to software experiences for **Adobe Systems**, **Zumba Fitness**, **The Wall Street Journal**, **ESPN**, **BBC**, and top recording artists including **Usher**, **Frank Ocean**, **Metallica**, and many more.
+
+
+## About @JS_Cheerleader *(Producer/Director)*
+
+@JS_Cheerleader has interviewed the brightest stars at Sundance, worked on national television shows & film, and recently won the hearts of tech scene insiders as a JavaScript evangelist, connector, and opportunity creator. Yay!
 
 
 ## Don't Learn JavaScript - Learn How to Build Amazing Things
