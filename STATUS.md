@@ -41,6 +41,12 @@ I’m **Eric Elliott**, author of [“Programming JavaScript Applications”](ht
 
 I have contributed to software experiences for **Adobe Systems**, **Zumba Fitness**, **The Wall Street Journal**, **ESPN**, **BBC**, and top recording artists including **Usher**, **Frank Ocean**, **Metallica**, and many more.
 
+
+## About @JS_Cheerleader *(Producer/Director)*
+
+[@JS_Cheerleader](https://twitter.com/js_cheerleader) has interviewed the brightest stars at Sundance, worked on national television shows & film, and recently won the hearts of tech scene insiders as a JavaScript evangelist, connector, and opportunity creator. Yay!
+
+
 ## How to sign up...
 
 * **Ready to jump in?** [Learn more at EricElliottJS.com](https://ericelliottjs.com/).
