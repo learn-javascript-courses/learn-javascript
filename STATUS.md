@@ -15,15 +15,19 @@ These are the courses I wish I had when I was starting my career. You can trust 
 
 * [x] **Initial crowdfunding:** Exceeded goal by 250%. A bonus course was added to the planned production.
 * [x] **Books are shipping:** We're caught up with backorders. New orders usually ship within 24 hours. (If you still don't have yours, please [submit a support request](https://paralleldrive.zendesk.com/hc/en-us/requests/new) and we'll fix it.
-* [ ] **First course shipping** ["Learn JavaScript Software Testing with Sauce Labs"](https://ericelliottjs.com/product/learn-javascript-software-testing-with-sauce-labs/) is rolling out right now one lesson at a time.
+* [x] **First course shipping** ["Learn JavaScript Software Testing with Sauce Labs"](https://ericelliottjs.com/product/learn-javascript-software-testing-with-sauce-labs/) is rolling out right now one lesson at a time.
+
+## Coming Milestones
+
+* [ ] Not-for-profit learning platform for the homeless.
+* [ ] First four courses launched.
 
 
-## Things to do before the courses launch...
+## Things to do before you jump in...
 
 * [ ] Complete preliminary items on the [Learn JavaScript Essentials list](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2).
 * [ ] Browse the [Essential JavaScript Links collection](https://github.com/ericelliott/essential-javascript-links).
 * [ ] Form a study group. Students learn better when they can get answers from tutors and tutor others. Coordinate in the [Learn JavaScript Chat Room](https://gitter.im/learn-javascript-courses/javascript-questions)
-* [ ] Get some fresh air. Enjoy nature. Catch a movie. Enjoy your free time. The wait will be over before you know it.
 
 
 
