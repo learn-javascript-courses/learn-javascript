@@ -27,7 +27,7 @@ These are the courses I wish I had when I was starting my career. You can trust 
 
 * [ ] Complete preliminary items on the [Learn JavaScript Essentials list](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2).
 * [ ] Browse the [Essential JavaScript Links collection](https://github.com/ericelliott/essential-javascript-links).
-* [ ] Form a study group. Students learn better when they can get answers from tutors and tutor others. Coordinate in the [Learn JavaScript Chat Room](https://gitter.im/learn-javascript-courses/javascript-questions)
+* [ ] Form a study group. Students learn better when they can get answers from tutors and tutor others. Coordinate in the [Learn JavaScript Chat Room](https://gitter.im/learn-javascript-courses/javascript-questions).
 
 
 
