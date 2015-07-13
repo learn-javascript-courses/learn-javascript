@@ -51,20 +51,20 @@ What we need is a solution that can guide programmers of any skill level from th
 
 The courses are currently being offered in a [Lifetime Access Pass](https://ericelliottjs.com/product/lifetime-access-pass/) only available for early supporters. Here's what it includes:
 
-* ✔ Lifetime membership
-* ✔ In Depth Video + Text + Interactive Exercises
-* ✔ All courses + “Programming JavaScript Applications” book
-* ✔ Live webcasts (2-3 / year)
-* ✔ Full video archive (courses, video blog updates, webcast recordings, etc…)
+* Lifetime membership
+* In Depth Video + Text + Interactive Exercises
+* All courses + “Programming JavaScript Applications” book
+* Live webcasts (2-3 / year)
+* Full video archive (courses, video blog updates, webcast recordings, etc…)
 
 
 **Course titles & estimated availability (dates are not promises):**
 
-* ✔ JavaScript Software Testing with Sauce Labs *(February, 2015)*
-* ✔ The Two Pillars of JavaScript: Prototypal Inheritance *(June, 2015)*
-* ✔ The Two Pillars of JavaScript: Functional Programming *(September, 2015)*
-* ✔ Server Side Programming with Node and Express *(December, 2015)*
-* ✔ More courses to come: Asynchronous Programming, JavaScript Fundamentals, etc… *(2016 and beyond...)*
+* JavaScript Software Testing with Sauce Labs *(February, 2015)*
+* The Two Pillars of JavaScript: Prototypal Inheritance *(June, 2015)*
+* The Two Pillars of JavaScript: Functional Programming *(September, 2015)*
+* Server Side Programming with Node and Express *(December, 2015)*
+* More courses to come: Asynchronous Programming, JavaScript Fundamentals, etc… *(2016 and beyond...)*
 
 
 ### JavaScript Software Testing with Sauce Labs
