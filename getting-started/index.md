@@ -1,8 +1,12 @@
 # Getting Started With the Terminal, Git, and Node
 
-Most of the courses will require you to have a working bash terminal, git, and Node.
+Most JavaScript developers make heavy use of the bash terminal, git, and Node. Chances are, you won't get far on your JavaScript journey without them.
 
 Node will be used for both server-side and client-side programming in JavaScript, and npm, which comes with Node, is the standard package manager for Node, meaning that it's how you'll access all the open source libraries available for use in your projects.
+
+Git keeps track of changes to source code over time, and helps you share those changes and collaborate with other developers. As I write this, GitHub is the website most JavaScript developers use to coordinate work on Git repositories using the integrated issue tracker, and peer code reviews with pull requests.
+
+The bash terminal is the standard way for interacting with both Node and the command-line Git tools. The following are a few resources you might find useful while you're starting to learn these tools.
 
 
 ## Learning Git and the Terminal
