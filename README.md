@@ -47,7 +47,7 @@ What we need is a solution that can guide programmers of any skill level from th
 
 * **Audio / video:** 7-10 minute video instruction
 * **Hands-on practice:** Online Workbook text to introduce concepts and interactive, self-grading exercises
-* **Textbook** "Programming JavaScript Applications" is included with all course bundles. You'll find references in the video and practice exercises referring you to deeper study in the book.
+* **Textbooks** "Programming JavaScript Applications" is included with all course bundles, and a new book is in progress that will use ES6+ examples throughout.
 * **Collaboration** Create an agile study group to share encouragement and tutoring as you progress.
 
 
@@ -58,22 +58,21 @@ The courses are currently being offered in a [Lifetime Access Pass](https://eric
 * Lifetime membership
 * In Depth Video + Text + Interactive Exercises
 * All courses + “Programming JavaScript Applications” book
-* Live webcasts (2-3 / year)
+* Live webcasts
+* Shotgun with Eric Elliott: A show that lets you ride shotgun while I build real apps.
 * Full video archive (courses, video blog updates, webcast recordings, etc…)
 
 
-**Course titles & estimated availability (dates are not promises):**
+**Course topics**
 
-* JavaScript Software Testing with Sauce Labs *(February, 2015)*
-* The Two Pillars of JavaScript: Prototypal Inheritance *(June, 2015)*
-* The Two Pillars of JavaScript: Functional Programming *(September, 2015)*
-* Server Side Programming with Node and Express *(December, 2015)*
-* More courses to come: Asynchronous Programming, JavaScript Fundamentals, etc… *(2016 and beyond...)*
+* JavaScript Software Testing with Sauce Labs
+* The Two Pillars of JavaScript: Prototypal Inheritance
+* The Two Pillars of JavaScript: Functional Programming
+* Server Side Programming with Node and Express
+* More courses to come: Asynchronous Programming, JavaScript Fundamentals, etc...
 
 
 ### JavaScript Software Testing with Sauce Labs
-
-*(target launch: before the end of February, 2015)*
 
 ***The only thing that matters in development is that users love the product.***
 
