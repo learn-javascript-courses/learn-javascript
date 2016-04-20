@@ -97,8 +97,6 @@ The value of these lessons can't be overstated. The ideas, tools, and techniques
 
 ## Supporting a Good Cause
 
-We launched ["Learn JavaScript with Eric Elliott" on Kickstarter](https://www.kickstarter.com/projects/ericelliott/learn-javascript) and raised 250% of our goal. The campaign went viral after I posted a story on medium: ["Fighting Poverty with Code"](https://medium.com/the-backer-army/fighting-poverty-with-code-d1ed3ebd982d).
-
 We're on a mission to end homelessness. There is a global movement to end homelessness by providing the homeless with free housing. Intake tracking studies show that housing the homeless is less expensive than letting them live on the street. Once they're in a stable home environment, they are much more likely to escape the grip of poverty and become productive, self-reliant citizens. That's where you come in: Your support allows us to help housing-first programs implement effective job-training programs for the homeless. We're teaching the homeless how to code, and helping them into rewarding careers.
 
 *Together we can change the world.*
