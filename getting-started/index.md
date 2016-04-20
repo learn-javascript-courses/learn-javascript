@@ -11,6 +11,7 @@ If you need help learning Git and the Terminal, check out these free resources:
 
 * [Try Git](https://try.github.io/levels/1/challenges/1) & [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
 * [An Introduction to the Linux Terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)
+* [The Bash Guide](http://guide.bash.academy/) by [Maarten Billemont](http://lhunath.com/). #tutorial
 
 ## Installing Node
 
