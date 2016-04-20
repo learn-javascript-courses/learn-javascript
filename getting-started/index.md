@@ -9,9 +9,17 @@ Node will be used for both server-side and client-side programming in JavaScript
 
 If you need help learning Git and the Terminal, check out these free resources:
 
-* [Try Git](https://try.github.io/levels/1/challenges/1) & [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
+### Terminal
+
 * [An Introduction to the Linux Terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)
 * [The Bash Guide](http://guide.bash.academy/) by [Maarten Billemont](http://lhunath.com/). #tutorial
+
+### Git
+
+* [Try Git](https://try.github.io/levels/1/challenges/1)
+* [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [Learn Git Branching](https://pcottle.github.io/learnGitBranching/)
+* [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
 
 ## Installing Node
 
